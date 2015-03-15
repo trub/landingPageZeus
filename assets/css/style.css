@@ -222,24 +222,27 @@ a:focus {
 }
 
 @media (max-width: 768px) {
+	
 	#is h1 {
 	margin-top: 20px;
 	font-size: 40px;
-}
+	}
 
 	#is p {
 	font-size: 18px;
-}
+	}
 
 	.btn-green {
 	font-size: 24px;
-}
+	}
+
 	#is .small {
 	margin-bottom: 15px;
 
-}
+	}
 
 }
+
 /* Font Icons Styling for White Sections */
 .icons-white-bg i {
 	font-size: 30px;
