@@ -216,6 +216,11 @@ a:focus {
 	margin-bottom: 40px;
 }
 
+#is .addColor {
+	color: rgb(0, 30, 255);
+	font-weight: 700;
+}
+
 @media (max-width: 768px) {
 	#is h1 {
 	margin-top: 20px;
