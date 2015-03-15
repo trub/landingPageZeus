@@ -228,12 +228,14 @@ a:focus {
 }
 
 	#is p {
-	font-size: 20px;
+	font-size: 18px;
 	}
 
-.btn-green {
+	.btn-green {
 	font-size: 24px;
 }
+	#is .small {
+	margin-bottom: 15px;
 
 }
 /* Font Icons Styling for White Sections */
