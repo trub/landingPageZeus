@@ -1,2 +1,2 @@
 # landingPageZeus
-landingPage
+textzeus.com
